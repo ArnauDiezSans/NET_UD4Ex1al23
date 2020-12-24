@@ -1,0 +1,12 @@
+C:\Users\Arnau\source\repos\ArnauDiezSans\NET_UD4Ex1al23\ex23\ex23\obj\Debug\netcoreapp3.1\ex23.AssemblyInfoInputs.cache
+C:\Users\Arnau\source\repos\ArnauDiezSans\NET_UD4Ex1al23\ex23\ex23\obj\Debug\netcoreapp3.1\ex23.AssemblyInfo.cs
+C:\Users\Arnau\source\repos\ArnauDiezSans\NET_UD4Ex1al23\ex23\ex23\obj\Debug\netcoreapp3.1\ex23.csproj.CoreCompileInputs.cache
+C:\Users\Arnau\source\repos\ArnauDiezSans\NET_UD4Ex1al23\ex23\ex23\bin\Debug\netcoreapp3.1\ex23.exe
+C:\Users\Arnau\source\repos\ArnauDiezSans\NET_UD4Ex1al23\ex23\ex23\bin\Debug\netcoreapp3.1\ex23.deps.json
+C:\Users\Arnau\source\repos\ArnauDiezSans\NET_UD4Ex1al23\ex23\ex23\bin\Debug\netcoreapp3.1\ex23.runtimeconfig.json
+C:\Users\Arnau\source\repos\ArnauDiezSans\NET_UD4Ex1al23\ex23\ex23\bin\Debug\netcoreapp3.1\ex23.runtimeconfig.dev.json
+C:\Users\Arnau\source\repos\ArnauDiezSans\NET_UD4Ex1al23\ex23\ex23\bin\Debug\netcoreapp3.1\ex23.dll
+C:\Users\Arnau\source\repos\ArnauDiezSans\NET_UD4Ex1al23\ex23\ex23\bin\Debug\netcoreapp3.1\ex23.pdb
+C:\Users\Arnau\source\repos\ArnauDiezSans\NET_UD4Ex1al23\ex23\ex23\obj\Debug\netcoreapp3.1\ex23.dll
+C:\Users\Arnau\source\repos\ArnauDiezSans\NET_UD4Ex1al23\ex23\ex23\obj\Debug\netcoreapp3.1\ex23.pdb
+C:\Users\Arnau\source\repos\ArnauDiezSans\NET_UD4Ex1al23\ex23\ex23\obj\Debug\netcoreapp3.1\ex23.genruntimeconfig.cache
