@@ -1,0 +1,12 @@
+C:\Users\Arnau\source\repos\ArnauDiezSans\NET_UD4Ex1al23\Ex11\Ex11\obj\Debug\netcoreapp3.1\Ex11.AssemblyInfoInputs.cache
+C:\Users\Arnau\source\repos\ArnauDiezSans\NET_UD4Ex1al23\Ex11\Ex11\obj\Debug\netcoreapp3.1\Ex11.AssemblyInfo.cs
+C:\Users\Arnau\source\repos\ArnauDiezSans\NET_UD4Ex1al23\Ex11\Ex11\obj\Debug\netcoreapp3.1\Ex11.csproj.CoreCompileInputs.cache
+C:\Users\Arnau\source\repos\ArnauDiezSans\NET_UD4Ex1al23\Ex11\Ex11\bin\Debug\netcoreapp3.1\Ex11.exe
+C:\Users\Arnau\source\repos\ArnauDiezSans\NET_UD4Ex1al23\Ex11\Ex11\bin\Debug\netcoreapp3.1\Ex11.deps.json
+C:\Users\Arnau\source\repos\ArnauDiezSans\NET_UD4Ex1al23\Ex11\Ex11\bin\Debug\netcoreapp3.1\Ex11.runtimeconfig.json
+C:\Users\Arnau\source\repos\ArnauDiezSans\NET_UD4Ex1al23\Ex11\Ex11\bin\Debug\netcoreapp3.1\Ex11.runtimeconfig.dev.json
+C:\Users\Arnau\source\repos\ArnauDiezSans\NET_UD4Ex1al23\Ex11\Ex11\bin\Debug\netcoreapp3.1\Ex11.dll
+C:\Users\Arnau\source\repos\ArnauDiezSans\NET_UD4Ex1al23\Ex11\Ex11\bin\Debug\netcoreapp3.1\Ex11.pdb
+C:\Users\Arnau\source\repos\ArnauDiezSans\NET_UD4Ex1al23\Ex11\Ex11\obj\Debug\netcoreapp3.1\Ex11.dll
+C:\Users\Arnau\source\repos\ArnauDiezSans\NET_UD4Ex1al23\Ex11\Ex11\obj\Debug\netcoreapp3.1\Ex11.pdb
+C:\Users\Arnau\source\repos\ArnauDiezSans\NET_UD4Ex1al23\Ex11\Ex11\obj\Debug\netcoreapp3.1\Ex11.genruntimeconfig.cache
