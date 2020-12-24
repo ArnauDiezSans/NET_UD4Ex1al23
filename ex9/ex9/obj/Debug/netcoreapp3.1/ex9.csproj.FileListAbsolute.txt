@@ -1,0 +1,12 @@
+C:\Users\Arnau\source\repos\ArnauDiezSans\NET_UD4Ex1al23\ex9\ex9\bin\Debug\netcoreapp3.1\ex9.exe
+C:\Users\Arnau\source\repos\ArnauDiezSans\NET_UD4Ex1al23\ex9\ex9\bin\Debug\netcoreapp3.1\ex9.deps.json
+C:\Users\Arnau\source\repos\ArnauDiezSans\NET_UD4Ex1al23\ex9\ex9\bin\Debug\netcoreapp3.1\ex9.runtimeconfig.json
+C:\Users\Arnau\source\repos\ArnauDiezSans\NET_UD4Ex1al23\ex9\ex9\bin\Debug\netcoreapp3.1\ex9.runtimeconfig.dev.json
+C:\Users\Arnau\source\repos\ArnauDiezSans\NET_UD4Ex1al23\ex9\ex9\bin\Debug\netcoreapp3.1\ex9.dll
+C:\Users\Arnau\source\repos\ArnauDiezSans\NET_UD4Ex1al23\ex9\ex9\bin\Debug\netcoreapp3.1\ex9.pdb
+C:\Users\Arnau\source\repos\ArnauDiezSans\NET_UD4Ex1al23\ex9\ex9\obj\Debug\netcoreapp3.1\ex9.AssemblyInfoInputs.cache
+C:\Users\Arnau\source\repos\ArnauDiezSans\NET_UD4Ex1al23\ex9\ex9\obj\Debug\netcoreapp3.1\ex9.AssemblyInfo.cs
+C:\Users\Arnau\source\repos\ArnauDiezSans\NET_UD4Ex1al23\ex9\ex9\obj\Debug\netcoreapp3.1\ex9.csproj.CoreCompileInputs.cache
+C:\Users\Arnau\source\repos\ArnauDiezSans\NET_UD4Ex1al23\ex9\ex9\obj\Debug\netcoreapp3.1\ex9.dll
+C:\Users\Arnau\source\repos\ArnauDiezSans\NET_UD4Ex1al23\ex9\ex9\obj\Debug\netcoreapp3.1\ex9.pdb
+C:\Users\Arnau\source\repos\ArnauDiezSans\NET_UD4Ex1al23\ex9\ex9\obj\Debug\netcoreapp3.1\ex9.genruntimeconfig.cache
