@@ -1,0 +1,12 @@
+C:\Users\Arnau\source\repos\ArnauDiezSans\NET_UD4Ex1al23\ex15\ex15\obj\Debug\netcoreapp3.1\ex15.AssemblyInfoInputs.cache
+C:\Users\Arnau\source\repos\ArnauDiezSans\NET_UD4Ex1al23\ex15\ex15\obj\Debug\netcoreapp3.1\ex15.AssemblyInfo.cs
+C:\Users\Arnau\source\repos\ArnauDiezSans\NET_UD4Ex1al23\ex15\ex15\obj\Debug\netcoreapp3.1\ex15.csproj.CoreCompileInputs.cache
+C:\Users\Arnau\source\repos\ArnauDiezSans\NET_UD4Ex1al23\ex15\ex15\bin\Debug\netcoreapp3.1\ex15.exe
+C:\Users\Arnau\source\repos\ArnauDiezSans\NET_UD4Ex1al23\ex15\ex15\bin\Debug\netcoreapp3.1\ex15.deps.json
+C:\Users\Arnau\source\repos\ArnauDiezSans\NET_UD4Ex1al23\ex15\ex15\bin\Debug\netcoreapp3.1\ex15.runtimeconfig.json
+C:\Users\Arnau\source\repos\ArnauDiezSans\NET_UD4Ex1al23\ex15\ex15\bin\Debug\netcoreapp3.1\ex15.runtimeconfig.dev.json
+C:\Users\Arnau\source\repos\ArnauDiezSans\NET_UD4Ex1al23\ex15\ex15\bin\Debug\netcoreapp3.1\ex15.dll
+C:\Users\Arnau\source\repos\ArnauDiezSans\NET_UD4Ex1al23\ex15\ex15\bin\Debug\netcoreapp3.1\ex15.pdb
+C:\Users\Arnau\source\repos\ArnauDiezSans\NET_UD4Ex1al23\ex15\ex15\obj\Debug\netcoreapp3.1\ex15.dll
+C:\Users\Arnau\source\repos\ArnauDiezSans\NET_UD4Ex1al23\ex15\ex15\obj\Debug\netcoreapp3.1\ex15.pdb
+C:\Users\Arnau\source\repos\ArnauDiezSans\NET_UD4Ex1al23\ex15\ex15\obj\Debug\netcoreapp3.1\ex15.genruntimeconfig.cache
